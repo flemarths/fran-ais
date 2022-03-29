@@ -13,7 +13,7 @@ I- Les enfants bénéficient d'un rôle privilégié et vivent au dépend des au
 
 	     b)Les adultes ce sentent responsables et on peut de faillir à leur devoirs
 
-	     c)
+	     c)Ils compensent leut fragilité par une soif de pouvoir et de puissance
 
 
 	2-Ils ne peuvent s'exprimer que par des caprices
