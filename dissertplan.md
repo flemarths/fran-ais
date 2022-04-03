@@ -7,25 +7,26 @@ ou leurs esclaves."
 # I- Les enfants bénéficient d'un rôle privilégié et vivent au dépend des autres
 
   1. De par leur nature fragile
-    - Les enfants sont dépendants des adultes pour leur survie
+    
+	* Les enfants sont dépendants des adultes pour leur survie
 	R:55:"Nous naissons faibles nous avons besoind de force ..."
 
-	- Les adultes ce sentent responsables et on peut de faillir à leur devoirs
+	* Les adultes ce sentent responsables et on peut de faillir à leur devoirs
 	R:147:"Notre manie bienpensante et pédesque ..."
 
-    - Ils compensent leut fragilité par une soif de pouvoir et de puissance
+    * Ils compensent leut fragilité par une soif de pouvoir et de puissance
 	A:39:"Elle savait qu'elle était abiku..."
 
 
-  1. Ils ne peuvent s'exprimer que par des caprices
+  2. Ils ne peuvent s'exprimer que par des caprices
 
-	- Le seul moyen de s'exprimer pour un bébé est de pleurer
+	* Le seul moyen de s'exprimer pour un bébé est de pleurer
 	R:79:"Sa première enfance se passe à pleurer..."
 
-    - Les enfants sont incapables de refouler leurs passions/envies
+    * Les enfants sont incapables de refouler leurs passions/envies
 
 
-    - Ils vivent dans l'instant présent, ne se projètent pas
+    * Ils vivent dans l'instant présent, ne se projètent pas
 	A:43:"Et si un jour tu demandes quelque chose qu'ils ne peuvent te donner..."
 
 	      
