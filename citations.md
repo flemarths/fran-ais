@@ -1,6 +1,6 @@
 ## Citations de français
 
-### 1-[Rousseau](https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau)
+### 1-[Rousseau](https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau) => [L'émile](https://www.youtube.com/watch?v=ytrB-hUWD2s)
 
 * "Cultives, arroses la jeune plante ... : ses fruits feront un jour tes délices"
 * "Avant de savoir parler, il commande"
@@ -10,7 +10,7 @@
 * Nous naissons faibles, nous avons besoin de force ; nous naissons dépourvu de tout, nous avons besoin d'assitance ; nous naissons stupides, nous avons besoin de jugement."
 
 
-### 2- [Andersen](https://fr.wikipedia.org/wiki/Hans_Christian_Andersen)
+### 2- [Andersen](https://fr.wikipedia.org/wiki/Hans_Christian_Andersen) => [Contes](https://www.youtube.com/watch?v=ytrB-hUWD2s)
 
 * "L'enfance a pour tout le monde ses moments lumineux qui, par la suite, illuminent toute la vie. Des quantités de choses s'offraient à lui pour son plaisir et sa distraction" (Une histoire de dunes)
 * "Tout de même, les enfants sont une bénédiction de Dieu. Ils sont la joie de la maison"
@@ -19,7 +19,7 @@
 * "Les caisses étaient très hautes, et les enfants savaient qu'ils n'avaient pas le droit d'y grimper."
 
 
-### 3- [Soyinka](https://fr.wikipedia.org/wiki/Wole_Soyinka)
+### 3- [Soyinka](https://fr.wikipedia.org/wiki/Wole_Soyinka) => [Aké](https://www.youtube.com/watch?v=ytrB-hUWD2s)
 
 * "Pourquoi cela était rassurant, je l'ignorais, mais je continuais à me sentir chez moi à chaque pas que je faisais."
 * "Tu ne sais pas de quoi tu parles tu n'es qu'un enfant."
